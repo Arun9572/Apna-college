@@ -1,3 +1,3 @@
 # Apna-college
-This is my first git repository. 
-Author - Gurram Naveen
+This is my first git repository.<br>
+Author - <b>Gurram Naveen</b>
